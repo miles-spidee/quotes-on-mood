@@ -1,15 +1,17 @@
 # Quotes on moods
 ### A Javascript Project
 
-**Desription:** 
+**Desription:** <br/>
 👉 This project is based on Javascript , where user gets 3 random messages.
 
-**Feature:**
+**Feature:** <br/>
 👉 This project is helpful for people to improve their mood.
 
-**How to use:**
-👉 Download a text editor.
-👉 Choose a preferred   
-**Language used:**
+**How to use:** <br/>
+👉 Download a text editor. <br/>
+👉 Choose a preferred. <br/>
+
+**Language used:** <br/>
 👉 Javascript
 
+---Thank-You-😊---

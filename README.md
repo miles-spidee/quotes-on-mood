@@ -9,9 +9,7 @@
 
 **How to use:**
 👉 Download a text editor.
-👉 Choose a preferred _Runtime Environment_ .
-👉 Run the code from `script.js`
-
+👉 Choose a preferred   
 **Language used:**
 👉 Javascript
 
